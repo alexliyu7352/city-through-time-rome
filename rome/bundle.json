@@ -746,7 +746,7 @@
   {
    "path": "build/museum/index.json",
    "bytes": 1196,
-   "sha256": "8d82e9544bee597a705e79dbc04b2b7579ea1957016766a64341de86a90758ee"
+   "sha256": "896fe09ff6c8ecea75f9c568e0c80c25ca0bdc5500b4c984025ec195ff9aa7f5"
   },
   {
    "path": "build/museum/plate.json",
@@ -830,28 +830,28 @@
   },
   {
    "path": "build/museum/pompey_complex.json",
-   "bytes": 25711,
-   "sha256": "09672b8a5793ebdc9524f90b1643a9320bbc96c23ac6656b3137e8832361bb26"
+   "bytes": 28174,
+   "sha256": "ce254e7b2fb99a91072dca07362563d59d42946366957de04514ac8cde2c9fd5"
   },
   {
    "path": "build/museum/pompey_complex/model.json",
-   "bytes": 43290,
-   "sha256": "922bf729b1428d2c6047c717682f2477f3a5e5cf152540b79640f4ca9c793613"
+   "bytes": 43198,
+   "sha256": "69c13134ca6ba29f64688255b9a7c61e9ddc3ff9c13612aaaaa690d8cc0b7401"
   },
   {
    "path": "build/museum/pompey_complex/overview.jpg",
-   "bytes": 384471,
-   "sha256": "105fceb8a110760b6bf4039cdfd012c815d3e84196336a1270f71db2a086bdcb"
+   "bytes": 309736,
+   "sha256": "4fa4e305d7bf5237689f6cdc3952e00ba039ff4adffdf1457741d6f4e134441b"
   },
   {
    "path": "build/museum/pompey_complex/reverse.jpg",
-   "bytes": 327975,
-   "sha256": "798509dc6716243cfc4b000c65a766ccf8e81db18ffb34cc208a69759198ed09"
+   "bytes": 330996,
+   "sha256": "6f73c6961b679a860fb83d132abb1ae36d80251a47f5ce59000eefa1511f7deb"
   },
   {
    "path": "build/museum/pompey_complex/hall.jpg",
-   "bytes": 408037,
-   "sha256": "73d9983c025556319fda919c9bb06076c4acee72b4f84050b856177bd2af4f1f"
+   "bytes": 326751,
+   "sha256": "f062bc031026306a09d4a886f3ba70c67fec57f692c29753ee8dfb27318dbbd6"
   },
   {
    "path": "poster.jpg",
@@ -864,5 +864,5 @@
    "sha256": "fbc53db02701c9ca76b823000676ce4eb92b21feee48001a76e259df71b7d932"
   }
  ],
- "bytes": 435450956
+ "bytes": 435300327
 }
