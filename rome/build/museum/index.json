@@ -1,0 +1,70 @@
+[
+ {
+  "id": "colosseum",
+  "node": "imperial_height",
+  "x": -0.06734,
+  "z": 0.10777,
+  "r": 0.01674,
+  "anchor": [
+   -0.06734,
+   0.005839,
+   0.10777
+  ],
+  "name": {
+   "zh": "罗马斗兽场",
+   "en": "Colosseum",
+   "zh-Hant": "羅馬鬥獸場"
+  }
+ },
+ {
+  "id": "new_st_peters",
+  "node": "made_again",
+  "x": -0.38141,
+  "z": -0.03427,
+  "r": 0.013876,
+  "anchor": [
+   -0.38141,
+   0.013345,
+   -0.03427
+  ],
+  "name": {
+   "zh": "新圣彼得大教堂",
+   "en": "New St Peter's Basilica",
+   "zh-Hant": "新聖彼得大教堂"
+  }
+ },
+ {
+  "id": "old_st_peters",
+  "node": "people_return",
+  "x": -0.37597,
+  "z": -0.03437,
+  "r": 0.012039,
+  "anchor": [
+   -0.3743,
+   0.004616,
+   -0.03419
+  ],
+  "name": {
+   "zh": "旧圣彼得大教堂",
+   "en": "Old St Peter's Basilica",
+   "zh-Hant": "舊聖彼得大教堂"
+  }
+ },
+ {
+  "id": "pompey_complex",
+  "node": "republic_pompey_observation",
+  "x": -0.19616,
+  "z": 0.04934,
+  "r": 0.020506,
+  "anchor": [
+   -0.22098,
+   0.003615,
+   0.04671
+  ],
+  "name": {
+   "zh": "庞培剧场、柱廊与议事厅",
+   "en": "Pompey's Theatre, Porticoes and Senate Meeting Hall",
+   "zh-Hant": "龐培劇場、柱廊與議事廳"
+  }
+ }
+]

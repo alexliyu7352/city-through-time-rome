@@ -1,0 +1,868 @@
+{
+ "slug": "rome",
+ "files": [
+  {
+   "path": "build/film.json",
+   "bytes": 1201194,
+   "sha256": "83607037038679b7533f9bd3493a2606f14d67076b9277039f77a8ed93801f7f"
+  },
+  {
+   "path": "build/data/model.json",
+   "bytes": 22492985,
+   "sha256": "9913fa4991ca7f6e4139911839628e6714bf1c9d2bb94092e26dd204b4a93a5c",
+   "parts": [
+    "build/data/model.part1.json",
+    "build/data/model.part2.json"
+   ]
+  },
+  {
+   "path": "build/data/stats.json",
+   "bytes": 3152,
+   "sha256": "afb73b2f9a1abe0683a40ca07df3a9e43048f069510ff4917e57d563a771e1fc"
+  },
+  {
+   "path": "build/data/lines.json",
+   "bytes": 1888574,
+   "sha256": "f98470ab6770ed99c2a0839691fede84661af2d777abb645bb0db9cdd33501f4"
+  },
+  {
+   "path": "build/data/water.png",
+   "bytes": 165715,
+   "sha256": "d9c30e553536e850c0b92a96a8d22b1b6cbbf14b005ffc65317853b51d284083"
+  },
+  {
+   "path": "build/data/layers1.png",
+   "bytes": 31609,
+   "sha256": "6e01bfb067b3a3051a50da3f4901e49f03fe4d65e42865258220ad7454e4b6bf"
+  },
+  {
+   "path": "build/data/layers2.png",
+   "bytes": 24060,
+   "sha256": "52520c45f7437b952fdc9b29b9fe247f6e4ad5671d876c7e95acaca66b3bab21"
+  },
+  {
+   "path": "build/data/layers3.png",
+   "bytes": 16966,
+   "sha256": "8b07ecdde91508fdc872dec1dfce85d03de1a891f205f10a5090aec2ec5c79f1"
+  },
+  {
+   "path": "build/data/hide.png",
+   "bytes": 241214,
+   "sha256": "2a0f63b325ce71e03f292a1e2f6dffd13800fdf10d8bdd84f0f4021e0d75bc93"
+  },
+  {
+   "path": "build/data/hide2.png",
+   "bytes": 313504,
+   "sha256": "10da6f10fdda7cdfd2970a4cd2636c45cde979be1e64e5d00387dca74d42437a"
+  },
+  {
+   "path": "build/data/edge.png",
+   "bytes": 481822,
+   "sha256": "b610719d5d4c74b95fda228634c4f6223126a1c9c3ae184f46906d07caad971c"
+  },
+  {
+   "path": "build/data/edge2.png",
+   "bytes": 535162,
+   "sha256": "992710827b76bfd975f266589e821addeae09014a08cc574660cdf8afb7317d4"
+  },
+  {
+   "path": "build/data/locator.png",
+   "bytes": 89271,
+   "sha256": "448ab5a3b4774fa05b40a8a05739c21fa0c06bea089fb48e463e3dae8bf0b6bb"
+  },
+  {
+   "path": "build/data/hide3.png",
+   "bytes": 311970,
+   "sha256": "503d8964dd11765fe140dba07698412edf9ac4ce211b1325de6a53f52be8a319"
+  },
+  {
+   "path": "build/data/edge3.png",
+   "bytes": 251121,
+   "sha256": "e6029400e35118c8ac9a4118b7448acd8e05589b5edee3e471b175edb37a6d69"
+  },
+  {
+   "path": "build/data/keep.png",
+   "bytes": 62342,
+   "sha256": "80fecac7f1a51d7faea460b9e73f5f5b2be1460a052ad9ea7a5db907e93c9a76"
+  },
+  {
+   "path": "build/data/keep2.png",
+   "bytes": 73082,
+   "sha256": "2456d826e086cfa53774616123e01bbc2cc7e2f84ffdd0edf65863597241be47"
+  },
+  {
+   "path": "build/data/keep3.png",
+   "bytes": 70968,
+   "sha256": "68910b2c7bb6c06c07b891a8c3e6f40d4f6440d3bbbd057467a68b466985cc1a"
+  },
+  {
+   "path": "build/data/hide_founding_price.png",
+   "bytes": 23673,
+   "sha256": "923829829734e3b774d2a430f0055d4a25070ef756dbad56c4b67b5ca43c5632"
+  },
+  {
+   "path": "build/data/edge_founding_price.png",
+   "bytes": 68799,
+   "sha256": "e40b26157b9ecdd9e5c53793567cdbacc6b3c6bd43cdf03865deff9c39a310b6"
+  },
+  {
+   "path": "build/data/hide_republic_won_and_lost.png",
+   "bytes": 61303,
+   "sha256": "917a59cec902e71980f4f9ad37f56ac97adbe7eb935a32be274e91a8cbee6879"
+  },
+  {
+   "path": "build/data/edge_republic_won_and_lost.png",
+   "bytes": 52258,
+   "sha256": "d68808094aa81bed8568c1fb06cb85ffdc99645f01350efe04f019cf78d6f8b8"
+  },
+  {
+   "path": "build/data/hide_republic_middle_city.png",
+   "bytes": 51521,
+   "sha256": "c68e57a565107c21aabe30556c0db18c7f66fd299cd725b0cb2f079b201cd6e7"
+  },
+  {
+   "path": "build/data/edge_republic_middle_city.png",
+   "bytes": 76578,
+   "sha256": "36e014dd8f6f696cc77d2a4ab6e3baab050fda2a159627811c557166c1db8923"
+  },
+  {
+   "path": "build/data/hide_republic_pompey_observation.png",
+   "bytes": 17162,
+   "sha256": "882ad2bbe20e7913ada580375996eca8c7d4f3583c83059579179ae94148fade"
+  },
+  {
+   "path": "build/data/edge_republic_pompey_observation.png",
+   "bytes": 45101,
+   "sha256": "9f7f159d8c174218538faa43d0f77bbfd0ca75db666579b456738c0dac681d91"
+  },
+  {
+   "path": "build/data/hide_republic_late_city.png",
+   "bytes": 80903,
+   "sha256": "27cba837f680cf3bf61018311d37cf7b0fbcf042f48e6d32416751202d6723a0"
+  },
+  {
+   "path": "build/data/edge_republic_late_city.png",
+   "bytes": 82738,
+   "sha256": "21bf228975316b4dfb1b94109bd1b24db367c26955d4217ca348578768964871"
+  },
+  {
+   "path": "build/data/hide_republic_civic_dedications.png",
+   "bytes": 15915,
+   "sha256": "0143442f258871db9dc55c70887b99a0f7f9556a73a42938ca935866fda05963"
+  },
+  {
+   "path": "build/data/edge_republic_civic_dedications.png",
+   "bytes": 3157,
+   "sha256": "5ed11e3dfe2f8a33a3cdd51e872a3db1a2fbbdab553aeea946ef9273a9f3e3f3"
+  },
+  {
+   "path": "build/data/hide_imperial_height.png",
+   "bytes": 46790,
+   "sha256": "4f4c1946bb0d30d890975e5347448edd97a505fd790fe90f48309cc4fbd56286"
+  },
+  {
+   "path": "build/data/edge_imperial_height.png",
+   "bytes": 85179,
+   "sha256": "e3458bdd96910c88a51afa1abe38d57640730e59a19c729a81f96d7139d0f886"
+  },
+  {
+   "path": "build/data/hide_another_centre.png",
+   "bytes": 72464,
+   "sha256": "807bbabfec20dcbfe53f4efd107150c0e2a67ae58ba6157ca95db2585030a764"
+  },
+  {
+   "path": "build/data/edge_another_centre.png",
+   "bytes": 85643,
+   "sha256": "50c068e00db4ee8dc45f678b89c389b5803c388bd6c743c0166dd81835bb30d1"
+  },
+  {
+   "path": "build/data/hide_the_city_taken.png",
+   "bytes": 15910,
+   "sha256": "5231100bc99205707b1d320ffd2a73af0d09791656bd9c1e878f88060b964f56"
+  },
+  {
+   "path": "build/data/edge_the_city_taken.png",
+   "bytes": 3157,
+   "sha256": "5ed11e3dfe2f8a33a3cdd51e872a3db1a2fbbdab553aeea946ef9273a9f3e3f3"
+  },
+  {
+   "path": "build/data/hide_people_return.png",
+   "bytes": 58771,
+   "sha256": "146ea488475c39fda2c3de275df4f4732cce673b271069529aee544547dff616"
+  },
+  {
+   "path": "build/data/edge_people_return.png",
+   "bytes": 46609,
+   "sha256": "26cdd44a2c8b0d2579f042e2e1b542414c38e6371c9142470bed9f51855c71a6"
+  },
+  {
+   "path": "build/data/keep_people_return.png",
+   "bytes": 18133,
+   "sha256": "ff299d763704c9b442ccf3dc201a554f5c64bd8058d53522999c758a979d16e0"
+  },
+  {
+   "path": "build/data/hide_people_return_late.png",
+   "bytes": 57386,
+   "sha256": "837aa2de274d0b325057e82fd8ee42873593679c2ecc594574169bc6cd744292"
+  },
+  {
+   "path": "build/data/edge_people_return_late.png",
+   "bytes": 50333,
+   "sha256": "bba7aac2738fe5b8d34f6fa923eb5dba8497302903c093958f474e4530a4a39f"
+  },
+  {
+   "path": "build/data/keep_people_return_late.png",
+   "bytes": 16592,
+   "sha256": "4aa8103fced280211886222608538d735da31d9c0829a4385348678cd184af35"
+  },
+  {
+   "path": "build/data/hide_made_again.png",
+   "bytes": 39522,
+   "sha256": "b75bf84c4cb4f869d08689f169e3f3271e44740af1267022d5d45043fbb4455a"
+  },
+  {
+   "path": "build/data/edge_made_again.png",
+   "bytes": 57885,
+   "sha256": "48e5b87dd1e07b84c74f00942bc30baa7aef3e555afab20f2b8b2bc754dadff5"
+  },
+  {
+   "path": "build/data/keep_made_again.png",
+   "bytes": 21595,
+   "sha256": "0a4657f2ab3f97c9e2c8d6577f432b6757761746b2b0f870d76cef1885a46183"
+  },
+  {
+   "path": "build/data/hide_a_capital_fought_for.png",
+   "bytes": 53705,
+   "sha256": "db2a34756f3cbb23f1b7be9825943a033e7724405fdab687fd602b5d0913589e"
+  },
+  {
+   "path": "build/data/edge_a_capital_fought_for.png",
+   "bytes": 84670,
+   "sha256": "473dd87561e0cefe762cfce251c4d9462a70cc30c87fc81ca2c274a786a35a0c"
+  },
+  {
+   "path": "build/data/keep_a_capital_fought_for.png",
+   "bytes": 27340,
+   "sha256": "8550b63fd23ae08b9f5e52002103d49f1a409c0aa2a66ff85b903ea41ac59983"
+  },
+  {
+   "path": "build/data/hide_rome08_national_capital.png",
+   "bytes": 38101,
+   "sha256": "87a45cc4fcd5dd4589d91811206b6355112e6f4f70e0b0199a877730d421ff9d"
+  },
+  {
+   "path": "build/data/edge_rome08_national_capital.png",
+   "bytes": 76878,
+   "sha256": "3bb9d2c542383dba36126697e709788c1ac364f968d47c7d2322501c2865778c"
+  },
+  {
+   "path": "build/data/keep_rome08_national_capital.png",
+   "bytes": 16666,
+   "sha256": "705b77e21ee8875ab6d53806ab33abef885b8fef08fd167128107744d591c5a5"
+  },
+  {
+   "path": "build/data/hide_rome12_walk2024.png",
+   "bytes": 16045,
+   "sha256": "a028452d8a5c85eb69d5a516383e3787c0709c699a217c9cc63a0d271228ee16"
+  },
+  {
+   "path": "build/data/edge_rome12_walk2024.png",
+   "bytes": 3157,
+   "sha256": "5ed11e3dfe2f8a33a3cdd51e872a3db1a2fbbdab553aeea946ef9273a9f3e3f3"
+  },
+  {
+   "path": "build/data/keep_rome12_walk2024.png",
+   "bytes": 16029,
+   "sha256": "17770f7d7c40f7f4133c33ad5588dbc4c3a18e047e1e6ab28549a1be883985e5"
+  },
+  {
+   "path": "build/data/terrain16.png",
+   "bytes": 927667,
+   "sha256": "1404b6f3d51a6f15980ae78340c5391ef2af8afab2c36563181a73304e1d1d18"
+  },
+  {
+   "path": "build/data/grow_t.json",
+   "bytes": 11714,
+   "sha256": "bb02b2d97791a9206dec3dc5df90f524565dadff166173a490574e4b0dbc64e4"
+  },
+  {
+   "path": "build/data/era_founding_price.json",
+   "bytes": 550926,
+   "sha256": "12dec2f4c7c8c7dd8c7735b09eae4d06ad1563c67fd2636f3d6e24247d688530"
+  },
+  {
+   "path": "build/data/era_republic_won_and_lost.json",
+   "bytes": 5797966,
+   "sha256": "e2cb194252d31b297956bd4bd4706ebb0f7b504cfa51f2e41dad0c9249fb5a4a"
+  },
+  {
+   "path": "build/data/era_republic_middle_city.json",
+   "bytes": 6681565,
+   "sha256": "b313419730aff4215e6f48eae375adc51119aa2207cf52ce4994d493d30ee5ed"
+  },
+  {
+   "path": "build/data/era_republic_pompey_observation.json",
+   "bytes": 79064,
+   "sha256": "5535026b3a7024db21e34704afe709b36956bde1efacf1dbd2b0e4fc5cc645f2"
+  },
+  {
+   "path": "build/data/era_republic_late_city.json",
+   "bytes": 6314784,
+   "sha256": "f73985f9f0d7f66cb8d64970bab142c286bed9f9cf7c1b6b6ca197cfd1ff877c"
+  },
+  {
+   "path": "build/data/era_republic_civic_dedications.json",
+   "bytes": 4147,
+   "sha256": "e936d048613eb64709913db9afbd0513ff80924954e9062299a50f249039d4fe"
+  },
+  {
+   "path": "build/data/era_imperial_height.json",
+   "bytes": 21143139,
+   "sha256": "3bb5448a8a5d1ddb447b2ad74dbc81ac385cdcf5c153c350aef0f224801d8eee",
+   "parts": [
+    "build/data/era_imperial_height.part1.json",
+    "build/data/era_imperial_height.part2.json"
+   ]
+  },
+  {
+   "path": "build/data/era_another_centre.json",
+   "bytes": 20974166,
+   "sha256": "525d74e1878e7ef749e3cfa7817890879a482ae11b86ea0ef9b2497ff0eb0631",
+   "parts": [
+    "build/data/era_another_centre.part1.json",
+    "build/data/era_another_centre.part2.json"
+   ]
+  },
+  {
+   "path": "build/data/era_the_city_taken.json",
+   "bytes": 48098,
+   "sha256": "c648c49d5d4e2631ffb5d9cb6548737d616f90d12f1c9fee0ce429cb6ca09db5"
+  },
+  {
+   "path": "build/data/era_people_return.json",
+   "bytes": 3175895,
+   "sha256": "c203fa77bdbd867d929043b06f335b9d56689408e7c52ab3abdda3143436b849"
+  },
+  {
+   "path": "build/data/era_people_return_late.json",
+   "bytes": 13243530,
+   "sha256": "2982788c71f971830355839c665c4f0e136f69d714aa0c4ff5044fce860fceaf"
+  },
+  {
+   "path": "build/data/era_made_again.json",
+   "bytes": 30360295,
+   "sha256": "e7cebd0db566d103195a3c07a1210e6b00b8998853780f25f27a096c1523dc9e",
+   "parts": [
+    "build/data/era_made_again.part1.json",
+    "build/data/era_made_again.part2.json"
+   ]
+  },
+  {
+   "path": "build/data/era_a_capital_fought_for.json",
+   "bytes": 11574226,
+   "sha256": "45fdc49da41d579a678f8ce07c570ae5a680087ba55d14e84dae017796956a3b"
+  },
+  {
+   "path": "build/data/era_rome08_national_capital.json",
+   "bytes": 3701684,
+   "sha256": "c1ec358bf9d14a5407c26b8875b495b57326363698287da43e4717a784c32c88"
+  },
+  {
+   "path": "build/data/era_rome08_river_forecast.json",
+   "bytes": 21365,
+   "sha256": "7d4fc2ad76b2a3b1acbe89911accd300395d696414d42277198c3d4ad1011e55"
+  },
+  {
+   "path": "build/data/era_rome08_expansion1925.json",
+   "bytes": 3673214,
+   "sha256": "99c51146e30ceb7f548c37c84e610d01b4f4cfc0f3f3435c35e856eb8d5b6916"
+  },
+  {
+   "path": "build/data/era_a_home_lost.json",
+   "bytes": 29618371,
+   "sha256": "7a84aea99403b2a3a1c106269edc28603398f5eedaa2a356cb4ac49cf85e7d11",
+   "parts": [
+    "build/data/era_a_home_lost.part1.json",
+    "build/data/era_a_home_lost.part2.json"
+   ]
+  },
+  {
+   "path": "build/data/era_rome09_clearance1932.json",
+   "bytes": 2680,
+   "sha256": "4280b04b55da506115ad6bbf9083b6bb36ca5c991d77b537d2f3788b4378005f"
+  },
+  {
+   "path": "build/data/era_rome09_war1943.json",
+   "bytes": 21139985,
+   "sha256": "7b4948031da8bc7650473eaa0744f07726bf6dad253f2676cdd71eeade804efc",
+   "parts": [
+    "build/data/era_rome09_war1943.part1.json",
+    "build/data/era_rome09_war1943.part2.json"
+   ]
+  },
+  {
+   "path": "build/data/era_screen_rome.json",
+   "bytes": 161722,
+   "sha256": "790a5f04dff52e8cbd4855dd462396d4346204aa4a76535ff4b9eca4af33aa18"
+  },
+  {
+   "path": "build/data/era_rome11_olympic1960.json",
+   "bytes": 1871308,
+   "sha256": "c1991dc86007df8339451f90e469688e5f14867f4690f9cc2ec0e89bc1c0c8bb"
+  },
+  {
+   "path": "build/data/era_rome12_walk2024.json",
+   "bytes": 12529,
+   "sha256": "dffc738b02447be119e6ab9b0b22faadf1a30624237ec343bd0774d3a41dce48"
+  },
+  {
+   "path": "build/audio/voice/track_en.m4a",
+   "bytes": 24263430,
+   "sha256": "7811ca851088e291b0d43c1d3555fa8fef06175f1a780460be09cc3818338e43",
+   "parts": [
+    "build/audio/voice/track_en.part1.m4a",
+    "build/audio/voice/track_en.part2.m4a"
+   ]
+  },
+  {
+   "path": "build/audio/music/score.m4a",
+   "bytes": 36181220,
+   "sha256": "2f732843e0adc613fae49c98e0b37d8e92c79b015b9a18691c56f990eb66967c",
+   "parts": [
+    "build/audio/music/score.part1.m4a",
+    "build/audio/music/score.part2.m4a"
+   ]
+  },
+  {
+   "path": "build/data/basins.png",
+   "bytes": 21298,
+   "sha256": "dbd7a3ad7855924cfbab5784863e0e073ea72cc31876dae863670c35670d8938"
+  },
+  {
+   "path": "build/data/grounds.png",
+   "bytes": 578094,
+   "sha256": "72c91c2591c740d60bc69ab031b45822d01a37e23e6f05747ea08f99c6fe1ed8"
+  },
+  {
+   "path": "assets/founding_revision/italy_mediterranean.png",
+   "bytes": 54660,
+   "sha256": "329da35183669b3892f54d4329455a0fbf676b2ebcad4419844312ec7ed76a35"
+  },
+  {
+   "path": "assets/founding_revision/tiber_island_2021.jpg",
+   "bytes": 14823934,
+   "sha256": "8c1ade349a52200f187ccf613bccd4bd0ec90e242c6f5bd8ea34e64ade469bd0"
+  },
+  {
+   "path": "assets/restart_sources/rome02_g1_g2.mp4",
+   "bytes": 505190,
+   "sha256": "13f5323ff24d4aab91ddeca95cea80247c0d964431bf2b0575bd9a1a0eebcce0"
+  },
+  {
+   "path": "assets/restart_sources/rome_fourfix_caesar_tusculum_manttorino2089_marie_lan_tay_pamart.jpg",
+   "bytes": 5729368,
+   "sha256": "81e38d7de006071e4a1800d942f76863c56244d0f0b0abba71bd065338c45f19"
+  },
+  {
+   "path": "assets/restart_sources/rome02_g3_g4.mp4",
+   "bytes": 683452,
+   "sha256": "29fc2ca96604ecac257fc0ef60fcc3dbb33c0348c6b22c83760df9ec92a96e40"
+  },
+  {
+   "path": "assets/restart_sources/rome02_ip02_aftermath_panel.png",
+   "bytes": 6347695,
+   "sha256": "9256a1ce4f67523c22755295de0f97d78ca632ed2102283f5a5e9f48d1453406"
+  },
+  {
+   "path": "assets/restart_sources/augustus_head_ca14-30_met_DP337500.jpg",
+   "bytes": 1269832,
+   "sha256": "ff849911e0962785f6e99fc49797318d395ce8b1e4382f3ce589362396fea596"
+  },
+  {
+   "path": "assets/imagined/restart_ip03_grain.png",
+   "bytes": 2787749,
+   "sha256": "3e7207fdd002e064ccaa0212682583bea55601d0493b80a728456c3c448ab02c"
+  },
+  {
+   "path": "assets/imagined/restart_ip01_fire.png",
+   "bytes": 2895394,
+   "sha256": "9d9a83d3c248c6e08fd9a7dde2765da1681dc3e90ff2ab9abb3254291c4c2ec2"
+  },
+  {
+   "path": "assets/restart_sources/ph03_colosseum_mattia_masala_2024.jpg",
+   "bytes": 3837901,
+   "sha256": "215ee921e4328bb28fe1285f929dab5ab8821f9ad4b2325ae9d3fd3418b87630"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_grain.png",
+   "bytes": 113053,
+   "sha256": "dcbc561dc7ccae61342f35a759a1687307932ea3f2475fd1df30f5945e11df6d"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_trajan.png",
+   "bytes": 128055,
+   "sha256": "084f57db05a0a60a37ca0d17d75dba38e145b63125b82468ef5363f55e8b9960"
+  },
+  {
+   "path": "assets/restart_sources/ph04_porta_san_sebastiano_exterior_ardeatino_2024.jpg",
+   "bytes": 16169265,
+   "sha256": "df8444de7cd18305ff346e496149b1ae7b9f88b7d91fb06f46945b731b41d1aa"
+  },
+  {
+   "path": "assets/restart_sources/rome_attention_0307_constantinople.png",
+   "bytes": 102161,
+   "sha256": "c85cc8fa99ed0a44a2da10c4527ce6e7542f50d9b2500bc4b1bda586ff8ee0f5"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_north.png",
+   "bytes": 72178,
+   "sha256": "0bebb7494cb00e028f02f26e595a47ce158ccf2c6e9c9bbcf9c8164416861666"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_division_card.png",
+   "bytes": 77646,
+   "sha256": "4d81af5caced98608467235f7f77cdd0167e0b325468b3d7e16fee16592b32b4"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_ravenna_card_r2.png",
+   "bytes": 74626,
+   "sha256": "0923d071a7480e09bfa6b9fdd5c820d2ef39889f8561b817089d11c2bbe9bf5a"
+  },
+  {
+   "path": "assets/round_af_pictures/old_st_peters_brewer_1891.jpg",
+   "bytes": 308421,
+   "sha256": "ebbd069afeaa3826aa73a7b6d3d7452ce05302b08cb23eaa3073b48a2f4249c4"
+  },
+  {
+   "path": "assets/round_af_pictures/sack_rome_sylvestre_1890.jpg",
+   "bytes": 4521855,
+   "sha256": "2eeb35ae95b2c1baa17b073631a0e760861037b36503e81ae9ce4f4edabe8e41"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_division.png",
+   "bytes": 124189,
+   "sha256": "811e40b426e1673e663d4331979f20df0b7ad130c46f87eaa7268ccc227784dc"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_east_italy.png",
+   "bytes": 102068,
+   "sha256": "20cb53d08f2f210eec0a28f0a9051ac400c9d2bed00ecc226b5de2154d3cac15"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_westward.png",
+   "bytes": 106327,
+   "sha256": "4454df3a9b4b713419dc711423857e36405c5770fee12e2feb424b049ed43ece"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_franks_r2.png",
+   "bytes": 106852,
+   "sha256": "8bbc662fa38be4f1da34a890469f194fc6f0e471d4f9966413f8567a79128695"
+  },
+  {
+   "path": "assets/round_af_pictures/charlemagne_coronation_1516_1517.jpg",
+   "bytes": 286105,
+   "sha256": "e70b1f0bf119b9b60851a7fa410503d00d919984c3174942322c4fc4d6d17a2c"
+  },
+  {
+   "path": "assets/restart_sources/rome_attention_0507_next_avignon.png",
+   "bytes": 93909,
+   "sha256": "e7346808691b16b25d87715c5d5f3bf7742e0e48997a222af46d9fd3c4b46ff0"
+  },
+  {
+   "path": "assets/restart_sources/rome_director_v9_0507_campo_vaccino_doc.png",
+   "bytes": 17385254,
+   "sha256": "a3711e74e77fdbaf163ef01d7eea44bff317a4567d1501327b5ad8d712b52a55"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_charles_r2.png",
+   "bytes": 112490,
+   "sha256": "36551c9d3f03e8e1c7b600473548c8de1edc998b6dc9de11286bcc6678d93e6d"
+  },
+  {
+   "path": "assets/founding_revision/renaissance_sack_rome_1527_coornhert_1555_1556_rijks.jpg",
+   "bytes": 6268818,
+   "sha256": "ee2cf112c2bbff2719c285af810df2d62f3ceaddf943e47d569cfac71b963d50"
+  },
+  {
+   "path": "assets/founding_revision/renaissance_michelangelo_volterra_c1545_met.jpg",
+   "bytes": 2144920,
+   "sha256": "031e9e8e5165dc51001ba23efdad61b28d9dd6d70943175827ddfd97ead7112c"
+  },
+  {
+   "path": "assets/round_af_pictures/new_st_peters_2002.jpg",
+   "bytes": 1024814,
+   "sha256": "6c3a7108a38e11f33c703e763cc91e8ec145541d29218b450fd94cb976fd2458"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_italy.png",
+   "bytes": 51756,
+   "sha256": "8b363e6e8b0f8bea899a77bfc98369f83a516ed6ba4ebab3ac07bb5e32d97d35"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_france.png",
+   "bytes": 68552,
+   "sha256": "fc43026b3423c4b40c441c2e122e2235a070cdbc64acd4ca3955f84e6cf4f62f"
+  },
+  {
+   "path": "assets/round_af_pictures/rome_geo_kingdom_af.png",
+   "bytes": 93687,
+   "sha256": "d981c51c8fe9fc3a620ef53970c71df2e87f118d6da51ff83c65f33b081b7383"
+  },
+  {
+   "path": "assets/restart_sources/rome_director_v9_0507_flood_doc.png",
+   "bytes": 5498848,
+   "sha256": "3991116c69c7e82eee7c8a78b7b2b9ec2b5d42737fdf5c9b14c03a86d3630dfe"
+  },
+  {
+   "path": "assets/round_af_pictures/mussolini_meurisse_1923.jpg",
+   "bytes": 7109009,
+   "sha256": "d153bcc67ab021b06545931c5fc61a46029b4916d760c5e3104c830ff15b98a4"
+  },
+  {
+   "path": "assets/round_af_pictures/lateran_signing_1929.jpg",
+   "bytes": 617600,
+   "sha256": "56e21c2ea432d0dfc5b95ebe38b503b8e3d3fba6a1d2aa201f7c1415112c7f53"
+  },
+  {
+   "path": "assets/round_af_pictures/armistice_radio_imagined.png",
+   "bytes": 2124878,
+   "sha256": "736600dd581cdaf493e52e8f5bf7c99c2692f63623476696ead0728b7a927922"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_tail_germany_r4.png",
+   "bytes": 80024,
+   "sha256": "5422e407732a3f25ad54552b24c227ec80810cf850f2a5b5d4a3f4fc2a7341b1"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_tail_auschwitz.png",
+   "bytes": 81709,
+   "sha256": "820b888dd379412b2ca1c66de8c5bc4f6a3f2d04bbb15f48eac3e6c9028cb598"
+  },
+  {
+   "path": "assets/round_af_pictures/cesare_homecoming_imagined_v2.png",
+   "bytes": 2132242,
+   "sha256": "5cefc205b6bd7f8f09ca2112d17b05105b81e1dbc6cfeae3b930d74e019af4e1"
+  },
+  {
+   "path": "assets/imagined/restart_ip05_empty_room.png",
+   "bytes": 2127744,
+   "sha256": "2a15f5b490ecb00dcdfd8d43cf222142e533ecbb7bcf67e493135920a8c9d4fa"
+  },
+  {
+   "path": "assets/round_af_pictures/republic_referendum_ballot_1946.jpg",
+   "bytes": 114233,
+   "sha256": "1448ccbfc60088788abb48047bb83c2955dece1b6797a31f9c0f18394ef9c429"
+  },
+  {
+   "path": "assets/round_af_pictures/ben_hur_scene_1959_tci.jpg",
+   "bytes": 1157121,
+   "sha256": "849224d99a5d1db5c5b0f8300c41394bda5da6bbc9a94a588c5b841f2f6d5367"
+  },
+  {
+   "path": "assets/restart_sources/tail_caracalla_wide.jpg",
+   "bytes": 4464374,
+   "sha256": "441e56c36282360bffa47735d91d7a992a3c4de0016047993a7cf92d439a81e2"
+  },
+  {
+   "path": "assets/restart_sources/tail_maxentius.jpg",
+   "bytes": 7793294,
+   "sha256": "1198be6362fd4c72179f70b12f8e48156dc696ff887318185d044439b9e3ab2b"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_tail_italy.png",
+   "bytes": 60087,
+   "sha256": "cb07cf5182397714e1bf00b0a70cdaec23e232baf6e73d5e0c89ac10bd56ad15"
+  },
+  {
+   "path": "assets/restart_sources/rome_geo_tail_river.png",
+   "bytes": 57005,
+   "sha256": "4a0a670a8b6c99f46fcd1f805e552c08c5fdf0ed726bc0386b6ec854f60a3a07"
+  },
+  {
+   "path": "assets/living/rome_round12_founding_legend.png",
+   "bytes": 2893087,
+   "sha256": "43954a29ce0368974fdc2627a127b93bbd21bae7b807081e768e5a0d182a4568"
+  },
+  {
+   "path": "assets/living/rome_round13_republic_assembly.png",
+   "bytes": 2855476,
+   "sha256": "5e4c526f2663bb527f4a3e5e760c664f49ecbad988f06d446777223db29ab394"
+  },
+  {
+   "path": "assets/living/rome_round13b_emporium_unloading.png",
+   "bytes": 2701756,
+   "sha256": "76eac283d940ecf086e8dee1e9f7d61b8bfffa68be0fc6dcaa84535316559f64"
+  },
+  {
+   "path": "assets/living/rome_round12_imperial_street.png",
+   "bytes": 3682671,
+   "sha256": "6d171bb90e85a01b29399732b49cb58e7533c32fa8b89eb3404f463c14ed1200"
+  },
+  {
+   "path": "assets/living/rome_round10_boatmill537.png",
+   "bytes": 2361340,
+   "sha256": "f4f48f565f56ed6e1c2f5526463299cad48599a6ca95456566d8bc2b0034c806"
+  },
+  {
+   "path": "assets/living/rome_round12_jubilee1300.png",
+   "bytes": 2742524,
+   "sha256": "6f9bc756f2c701bdf4d42cdf1c79e0b2cb4df2f16fa8ad0891590ba8f1e8fea1"
+  },
+  {
+   "path": "assets/living/rome_round12_stpeter_drum1564.png",
+   "bytes": 2770060,
+   "sha256": "b70c38ff972a260ec42ad919dba6ccc0fcf3db11e8e3258b9105e422043b7023"
+  },
+  {
+   "path": "assets/living/rome_round12_flood1870.png",
+   "bytes": 2560427,
+   "sha256": "5e70bd7cab8878b3fab098289ea944207f5c2aebace4e867992856107cccdde3"
+  },
+  {
+   "path": "assets/living/rome_round12_spina_move1937.png",
+   "bytes": 3151481,
+   "sha256": "915c1716a29f82d0ffc19444fc346193ead474bf35df1d976cf13a6820d7089c"
+  },
+  {
+   "path": "assets/living/rome_round13b_holiday1953_close.png",
+   "bytes": 2594591,
+   "sha256": "4261cf9f65ed1cd64a66bf0d98b74fba7d4c16e0fc39b14092ae7234d97426c0"
+  },
+  {
+   "path": "assets/living/rome_round10_periphery_home1980s.png",
+   "bytes": 3069528,
+   "sha256": "4659c160ca2fec83e3dc42194788c9ecb06abf5fe9d24bd743f2659cf43196a1"
+  },
+  {
+   "path": "assets/living/rome_round12_prayer2020.png",
+   "bytes": 2620765,
+   "sha256": "545fe1fa8523ba648c18268ad1f7a6b4330c02436aef5381240e4b8e124c1c24"
+  },
+  {
+   "path": "assets/living/rome_round12_piazza_pia2024.png",
+   "bytes": 2814308,
+   "sha256": "e999533aca7dd3527fb9b7f12c74a506424ac32dfc7d10b65b23227fbefcc963"
+  },
+  {
+   "path": "build/museum/index.json",
+   "bytes": 1196,
+   "sha256": "8d82e9544bee597a705e79dbc04b2b7579ea1957016766a64341de86a90758ee"
+  },
+  {
+   "path": "build/museum/plate.json",
+   "bytes": 2858,
+   "sha256": "003f1cf2f3d330a198310a01eec95a4a2ee6b089fffe9d00bc1fccadb1e28003"
+  },
+  {
+   "path": "build/museum/colosseum.json",
+   "bytes": 13085,
+   "sha256": "85b44845e2e380ccd45c11da007d4a7be718261f0a728081536e4b832cd0a499"
+  },
+  {
+   "path": "build/museum/colosseum/model.json",
+   "bytes": 26181,
+   "sha256": "efad0a926b8fbffe7462da1bd729ec089fd03baa9e41eaa241c805cf482c6f4d"
+  },
+  {
+   "path": "build/museum/colosseum/south.jpg",
+   "bytes": 288774,
+   "sha256": "0396d6b24f10e20c890c72002b9ff18838ce306f296a85dd754660bc9da2c83e"
+  },
+  {
+   "path": "build/museum/colosseum/northeast.jpg",
+   "bytes": 352055,
+   "sha256": "2a9a5e647af810d67cd72391669cd3b0744b0319389564c29f7a229ff6d6d20c"
+  },
+  {
+   "path": "build/museum/colosseum/northwest.jpg",
+   "bytes": 279201,
+   "sha256": "3620608d1b64050238d610da86db030b610bd21cc99e3a4d0bfddf703af1da3d"
+  },
+  {
+   "path": "build/museum/new_st_peters.json",
+   "bytes": 20586,
+   "sha256": "20ff753dc2d1409e20dd283309380129d9da3aacd26b47157c56b3c15b2187e7"
+  },
+  {
+   "path": "build/museum/new_st_peters/model.json",
+   "bytes": 42085,
+   "sha256": "be3f6f4d87fde6ae891d338ed0c6ac8b4b4b5f01e1339c20db15e6104783b4ad"
+  },
+  {
+   "path": "build/museum/new_st_peters/front.jpg",
+   "bytes": 277213,
+   "sha256": "cccdfda5f5c0fab48aa7a17af2e6a62dabfacdb73503574db35542f010e65301"
+  },
+  {
+   "path": "build/museum/new_st_peters/side.jpg",
+   "bytes": 343425,
+   "sha256": "d274d436deb605f45cca4486d8cceaf0a148370561961aca973df8006d9298b3"
+  },
+  {
+   "path": "build/museum/new_st_peters/rear.jpg",
+   "bytes": 387195,
+   "sha256": "86af40cfb1fe10441916ed7759c0b24cd09c962a3cbf9c28a25b2b970f3ec056"
+  },
+  {
+   "path": "build/museum/old_st_peters.json",
+   "bytes": 20768,
+   "sha256": "d109748a70a65a923ed849b3c75496c184ea3f8247aac076f831c327a5827ae3"
+  },
+  {
+   "path": "build/museum/old_st_peters/model.json",
+   "bytes": 8720,
+   "sha256": "92cd1b3d73ab0b7a0d4effaac943273338f742f745bf8755643841dfbdc82ae2"
+  },
+  {
+   "path": "build/museum/old_st_peters/front.jpg",
+   "bytes": 391094,
+   "sha256": "3f86f7058bc932025403f67e81fcce8060d358016fa64a88c2a05f9a13c98c6a"
+  },
+  {
+   "path": "build/museum/old_st_peters/side.jpg",
+   "bytes": 385181,
+   "sha256": "32ad485c704e5de4d6ad9bf9c61e0ff34c74ef4479c45591e6daec48fbe4caed"
+  },
+  {
+   "path": "build/museum/old_st_peters/rear.jpg",
+   "bytes": 337139,
+   "sha256": "b6ab9875f45b068fad7276d3bb8c7e1cfc5b11cc88981660b9df25de851512ad"
+  },
+  {
+   "path": "build/museum/pompey_complex.json",
+   "bytes": 25711,
+   "sha256": "09672b8a5793ebdc9524f90b1643a9320bbc96c23ac6656b3137e8832361bb26"
+  },
+  {
+   "path": "build/museum/pompey_complex/model.json",
+   "bytes": 43290,
+   "sha256": "922bf729b1428d2c6047c717682f2477f3a5e5cf152540b79640f4ca9c793613"
+  },
+  {
+   "path": "build/museum/pompey_complex/overview.jpg",
+   "bytes": 384471,
+   "sha256": "105fceb8a110760b6bf4039cdfd012c815d3e84196336a1270f71db2a086bdcb"
+  },
+  {
+   "path": "build/museum/pompey_complex/reverse.jpg",
+   "bytes": 327975,
+   "sha256": "798509dc6716243cfc4b000c65a766ccf8e81db18ffb34cc208a69759198ed09"
+  },
+  {
+   "path": "build/museum/pompey_complex/hall.jpg",
+   "bytes": 408037,
+   "sha256": "73d9983c025556319fda919c9bb06076c4acee72b4f84050b856177bd2af4f1f"
+  },
+  {
+   "path": "poster.jpg",
+   "bytes": 344999,
+   "sha256": "17b494aa4c48e254366236574e75e937e9488bdc679d48fe877bf594e6068c31"
+  },
+  {
+   "path": "poster_thumb.webp",
+   "bytes": 54898,
+   "sha256": "fbc53db02701c9ca76b823000676ce4eb92b21feee48001a76e259df71b7d932"
+  }
+ ],
+ "bytes": 435450956
+}
