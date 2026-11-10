@@ -755,103 +755,158 @@
   },
   {
    "path": "build/museum/colosseum.json",
-   "bytes": 13085,
-   "sha256": "85b44845e2e380ccd45c11da007d4a7be718261f0a728081536e4b832cd0a499"
+   "bytes": 19446,
+   "sha256": "eebde486fcedcf99eee757af069fa799fc428bf329ef572323f3b80b18cf6e12"
   },
   {
    "path": "build/museum/colosseum/model.json",
-   "bytes": 26181,
-   "sha256": "efad0a926b8fbffe7462da1bd729ec089fd03baa9e41eaa241c805cf482c6f4d"
+   "bytes": 529,
+   "sha256": "56c26beb999339f3e7f3d1d7fb0c672cf0c4a0d49762b900b1dc973e94a52180"
   },
   {
    "path": "build/museum/colosseum/south.jpg",
-   "bytes": 288774,
-   "sha256": "0396d6b24f10e20c890c72002b9ff18838ce306f296a85dd754660bc9da2c83e"
+   "bytes": 338609,
+   "sha256": "25c822d71ece5e5ddff3514712e3b73b83b7a26a31e48e57ad53d9f637535c2c"
   },
   {
    "path": "build/museum/colosseum/northeast.jpg",
-   "bytes": 352055,
-   "sha256": "2a9a5e647af810d67cd72391669cd3b0744b0319389564c29f7a229ff6d6d20c"
+   "bytes": 395032,
+   "sha256": "847f9c5c3eac5396e89434000536e33cff5893aba900b5dec1c1147389589d63"
   },
   {
    "path": "build/museum/colosseum/northwest.jpg",
-   "bytes": 279201,
-   "sha256": "3620608d1b64050238d610da86db030b610bd21cc99e3a4d0bfddf703af1da3d"
+   "bytes": 377363,
+   "sha256": "d454cb682646fc144ca6d78bf410515e0b4e956ebece69007f387bf84911f340"
+  },
+  {
+   "path": "build/museum/colosseum/model.glb",
+   "bytes": 1685416,
+   "sha256": "54a04d5d62c6845aab09c33297c25b33c7f5a10d7e8aafd28111939ec225ab52"
   },
   {
    "path": "build/museum/new_st_peters.json",
-   "bytes": 20586,
-   "sha256": "20ff753dc2d1409e20dd283309380129d9da3aacd26b47157c56b3c15b2187e7"
+   "bytes": 23232,
+   "sha256": "71bd414499000a195ce5a143b0c1741c737ca19eab52e7cb01d1842c78ef4bc8"
   },
   {
    "path": "build/museum/new_st_peters/model.json",
-   "bytes": 42085,
-   "sha256": "be3f6f4d87fde6ae891d338ed0c6ac8b4b4b5f01e1339c20db15e6104783b4ad"
+   "bytes": 940,
+   "sha256": "549b84e8e15ca5dea5b247143f0972598a07bab0b6e2c8794664e21d93f496bc"
   },
   {
    "path": "build/museum/new_st_peters/front.jpg",
-   "bytes": 277213,
-   "sha256": "cccdfda5f5c0fab48aa7a17af2e6a62dabfacdb73503574db35542f010e65301"
+   "bytes": 289077,
+   "sha256": "0e532762a35f15f4eca6ec542304276089206c645a3a1003f0c42cfd4d89383d"
   },
   {
    "path": "build/museum/new_st_peters/side.jpg",
-   "bytes": 343425,
-   "sha256": "d274d436deb605f45cca4486d8cceaf0a148370561961aca973df8006d9298b3"
+   "bytes": 397998,
+   "sha256": "90bb112ebdfbde776c7a1244a505560920867f8fcffe6fec7aababde7c571482"
   },
   {
    "path": "build/museum/new_st_peters/rear.jpg",
-   "bytes": 387195,
-   "sha256": "86af40cfb1fe10441916ed7759c0b24cd09c962a3cbf9c28a25b2b970f3ec056"
+   "bytes": 331097,
+   "sha256": "74c401e1157b286716789419f7e449ad23bbbd5e636b437b9808289a23b05263"
+  },
+  {
+   "path": "build/museum/new_st_peters/model.glb",
+   "bytes": 874092,
+   "sha256": "ab12764089397f3a131da90bce7d6e15350bb6bfded8fb55fca79408f5f8f2ad"
   },
   {
    "path": "build/museum/old_st_peters.json",
-   "bytes": 20768,
-   "sha256": "d109748a70a65a923ed849b3c75496c184ea3f8247aac076f831c327a5827ae3"
+   "bytes": 22179,
+   "sha256": "8fcb500b9bd0f751717efd5e1a34ef14252f76fc64653ac2e3e00351d4a34fbf"
   },
   {
    "path": "build/museum/old_st_peters/model.json",
-   "bytes": 8720,
-   "sha256": "92cd1b3d73ab0b7a0d4effaac943273338f742f745bf8755643841dfbdc82ae2"
+   "bytes": 857,
+   "sha256": "abfb318965232aeb120c377cf5ff240d567fbf2c7622998e8e1a2143b3acdf04"
   },
   {
    "path": "build/museum/old_st_peters/front.jpg",
-   "bytes": 391094,
-   "sha256": "3f86f7058bc932025403f67e81fcce8060d358016fa64a88c2a05f9a13c98c6a"
+   "bytes": 417598,
+   "sha256": "88d5c0c59978e541773da5d08e8f1ba3ef18795a39da3a470afdf1ae8dc2ef65"
   },
   {
    "path": "build/museum/old_st_peters/side.jpg",
-   "bytes": 385181,
-   "sha256": "32ad485c704e5de4d6ad9bf9c61e0ff34c74ef4479c45591e6daec48fbe4caed"
+   "bytes": 359399,
+   "sha256": "d3b390f17cf01de891025e96e271d952339cea820b82167954ede916df208193"
   },
   {
    "path": "build/museum/old_st_peters/rear.jpg",
-   "bytes": 337139,
-   "sha256": "b6ab9875f45b068fad7276d3bb8c7e1cfc5b11cc88981660b9df25de851512ad"
+   "bytes": 308853,
+   "sha256": "d4a1fc965ce650bd0870ebb384e6fbef44a70338e4b862a450ae90c0fa1759ff"
+  },
+  {
+   "path": "build/museum/old_st_peters/core.glb",
+   "bytes": 176116,
+   "sha256": "b2da7eab1f50e1aec06f2dd611bfeb455d81b0b2b038633064c0793a9b0c71aa"
+  },
+  {
+   "path": "build/museum/old_st_peters/atrium.glb",
+   "bytes": 95464,
+   "sha256": "586c4e77a87d47a69ac3c1ebe8f64d90ff270fe022a06f2c686819ad32bc6781"
   },
   {
    "path": "build/museum/pompey_complex.json",
-   "bytes": 28174,
-   "sha256": "ce254e7b2fb99a91072dca07362563d59d42946366957de04514ac8cde2c9fd5"
+   "bytes": 33641,
+   "sha256": "4acbe3cd92fb140190ccadb459364cee6103929c0c29a76b498274548dca3114"
   },
   {
    "path": "build/museum/pompey_complex/model.json",
-   "bytes": 43198,
-   "sha256": "69c13134ca6ba29f64688255b9a7c61e9ddc3ff9c13612aaaaa690d8cc0b7401"
+   "bytes": 1984,
+   "sha256": "507415f0a159280e6c78bfbcf18feb703e26809fee44c2be2ded38139020bb78"
   },
   {
    "path": "build/museum/pompey_complex/overview.jpg",
-   "bytes": 309736,
-   "sha256": "4fa4e305d7bf5237689f6cdc3952e00ba039ff4adffdf1457741d6f4e134441b"
+   "bytes": 346479,
+   "sha256": "40007609d09e267b6b404ab0d6cfa8570210ec68ba499cd4fd0dc761e7a8b99a"
   },
   {
    "path": "build/museum/pompey_complex/reverse.jpg",
-   "bytes": 330996,
-   "sha256": "6f73c6961b679a860fb83d132abb1ae36d80251a47f5ce59000eefa1511f7deb"
+   "bytes": 361601,
+   "sha256": "e55573f5d65df48a6675cf4bd6edd4b053506e5e89f3567d009617010979fe06"
   },
   {
    "path": "build/museum/pompey_complex/hall.jpg",
-   "bytes": 326751,
-   "sha256": "f062bc031026306a09d4a886f3ba70c67fec57f692c29753ee8dfb27318dbbd6"
+   "bytes": 378375,
+   "sha256": "0cb91bbe485b516654f1b40e4b1a429b2844521b0b35e0855abe2902e0ef63d6"
+  },
+  {
+   "path": "build/museum/pompey_complex/curia_pompeia_east_frontage.glb",
+   "bytes": 104616,
+   "sha256": "28270a20a942c608d3ba26983ff6f6e2a5d8fd9e36329c454f0fcdae7a6f0a54"
+  },
+  {
+   "path": "build/museum/pompey_complex/rome02_quarter_north_gallery.glb",
+   "bytes": 32504,
+   "sha256": "31dff771587e7197f9d111cf434a6eb87a8694713e872bee067da283d128e28c"
+  },
+  {
+   "path": "build/museum/pompey_complex/rome02_quarter_south_gallery.glb",
+   "bytes": 33268,
+   "sha256": "e4eccf465a1d2513655a60b3c4baa2712db2e2c9f41125602a1fa432ec803757"
+  },
+  {
+   "path": "build/museum/pompey_complex/pompey_theatre.glb",
+   "bytes": 786760,
+   "sha256": "a734bae446db0e2036ad6ab7533fd452dbe962d35d7739ce0caacf8499ff5d00"
+  },
+  {
+   "path": "build/museum/pompey_complex/pompey_gallery_north_west.glb",
+   "bytes": 34524,
+   "sha256": "18256e2c2434a50a59d9a747884220884f4b85fcd3001e35162021e8cbdb2a42"
+  },
+  {
+   "path": "build/museum/pompey_complex/pompey_gallery_south_west.glb",
+   "bytes": 34524,
+   "sha256": "18256e2c2434a50a59d9a747884220884f4b85fcd3001e35162021e8cbdb2a42"
+  },
+  {
+   "path": "build/museum/pompey_complex/pompey_gallery_west_cross.glb",
+   "bytes": 58012,
+   "sha256": "3989b26247e79b4512b45f8916e9d5ff1a548dc23dd9973cb248bf1a805b482d"
   },
   {
    "path": "poster.jpg",
@@ -864,5 +919,5 @@
    "sha256": "fbc53db02701c9ca76b823000676ce4eb92b21feee48001a76e259df71b7d932"
   }
  ],
- "bytes": 435300327
+ "bytes": 439408355
 }
